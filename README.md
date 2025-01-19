@@ -11,7 +11,7 @@ This project allows you to convert XML data into CSV format using Python. It is 
 ## Files in this Project
 
 - `export_to_csv.py`: The main script for converting XML to CSV.
-- `phones.xml`: A sample XML file with product data (you can replace this with your own XML files).
+- `phones.xml`: A sample XML file with product data (you can replace this with your own XML files.).
 - `data/`: Folder where the generated CSV file will be saved.
 
 ## Requirements
